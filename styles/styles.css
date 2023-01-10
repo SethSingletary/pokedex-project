@@ -1,0 +1,15 @@
+#pokemonDetails{
+    display: none;
+}
+#pokemonDetails.is-visible{
+    position: fixed;
+    display: grid;
+    z-index: 999;
+    background-color: blue;
+}
+.container{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
