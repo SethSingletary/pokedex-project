@@ -1,0 +1,4 @@
+add a search
+custom styling
+expand seach to include all pokemon
+add checkboxes that filter pokemon
