@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://sethsingletary.github.io/pokedex-project",
+  "homepage": "https://pokedex-project-sigma.vercel.app/",
   "devDependencies": {
     "gh-pages": "^5.0.0"
   },
