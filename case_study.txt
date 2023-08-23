@@ -1,0 +1,7 @@
+Pokedex was my first API project, designed to help me begin to learn how to pull information from an API and then display it.
+
+This was my first full solo project, built and pulling information from the Pokedex API. The start of the project was simply pulling the very first item.
+After this was complete, I began to implement buttons and dividing the information to make it more readable.
+Once that was done, all the was left was adding buttons to collapse the content and adding some extra styling to make it even easier to read.
+
+This project was perfect for a first one, as it helped me learn how to use GET and taught me the importance of coming into a project with a basic idea of what you want it to look like.
